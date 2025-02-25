@@ -2,11 +2,11 @@
 My name is Igor!
 
 Contacts
-
 [![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/malinov_igor) 
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-003f5c?style=for-the-badge&logo=kotlin)
+My base language :
 
+![Kotlin](https://img.shields.io/badge/-Kotlin-003f5c?style=for-the-badge&logo=kotlin)
 
 [![Igor's github stats](https://github-readme-stats.vercel.app/api?username=MalinovIgor)](https://github.com/MalinovIgor/github-readme-stats)
 <!--
